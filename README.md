@@ -33,7 +33,7 @@ First, clone this repository to your local machine, and set up the Conda environ
 
 ```bash
 git clone https://github.com/FadiKhatib/resfm.git  
-cd resfm
+cd resfm/code
 conda env create -f environment.yaml
 conda activate resfm
 ```
